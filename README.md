@@ -1,2 +1,2 @@
-# SAMS
-Sport Apparel Management Systems for NUS-ISS Project Group 12
+# NUS-RCMS
+NUS Research Conference Management System for NUS-ISS Project Group 12
